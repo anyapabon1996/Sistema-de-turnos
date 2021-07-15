@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1622934689 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto\medico\medico\ejmedico.c
+	"EjMedico.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1622933093 c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto\medico\medico\ejmedico.h
+
+1622934553 source:c:\users\lenovo\documents\anyair\unsam\2do cuatrimestre\laboratorio ii\proyecto\medico\medico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"EjMedico.h"
+
